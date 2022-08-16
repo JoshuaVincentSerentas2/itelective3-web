@@ -13,7 +13,7 @@ The **hospital queuing system** (HQS) for hospitals will enable management to ea
 The entire system will be built utilizing: <br />
 <img src="https://github.com/JoshuaVincentSerentas2/itelective3-web/blob/main/Firebase-Cloud-Firestore.png" width="150" height="80">
 <img src="https://github.com/JoshuaVincentSerentas2/itelective3-web/blob/main/nodex.png" width="150" height="80">
-<img src="https://github.com/JoshuaVincentSerentas2/itelective3-web/blob/main/vue.png" width="150" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="150" height="80">
 
 * `FERN-Firestore`
 * `Express`
