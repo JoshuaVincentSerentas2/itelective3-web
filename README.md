@@ -1,6 +1,7 @@
-# Example Site
-This is a sample readme file for our GitHub Example repo. We're Learning Markdon.
+Southern Philippines Medical Center
+![alt text][logo]
+===========
+### **LINGAP** PARA SA MAHIRAP
 
-* example rani ha
-* gwapo ko
-* always:>
+
+[logo]: https://github.com/JoshuaVincentSerentas2/itelective3-web/blob/main/Lingap.jpg "Logo"
